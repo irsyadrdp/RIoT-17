@@ -1,0 +1,176 @@
+temperature,x,y,z,class
+27,-2.25,1.5,1,Middle Estrus
+33,0.8,1.4,0.75,Middle Estrus
+30,-1.5,1.3,1,Middle Estrus
+28,-2.5,1.2,0.8,Middle Estrus
+27,-1.1,1.1,1.5,Middle Estrus
+30,-0.5,1,1.3,Middle Estrus
+30,0.5,0.5,1,Middle Estrus
+31,0.2,1.7,0.2,Middle Estrus
+32,0.1,1.8,1,Middle Estrus
+34,-2,2,1.2,Middle Estrus
+35,-1.2,2,1,Middle Estrus
+36,-1.3,1.78,0.9,Middle Estrus
+27,-1.4,1.841818182,1,Middle Estrus
+33,-2.25,1.903636364,1.4,Middle Estrus
+30,0.8,1.965454545,1,Middle Estrus
+28,-1.5,2.027272727,1,Middle Estrus
+27,-2.5,2.089090909,1.6,Middle Estrus
+30,-1.1,2.150909091,1,Middle Estrus
+30,-0.5,2.212727273,1.8,Middle Estrus
+31,0.5,2.274545455,1,Middle Estrus
+32,0.2,2.336363636,0.5,Middle Estrus
+34,0.1,2.398181818,0.6,Middle Estrus
+35,-2,2.46,1,Middle Estrus
+36,-1.2,2.521818182,0.7,Middle Estrus
+27,-2.25,1.5,1,Middle Estrus
+33,0.8,1.4,0.75,Middle Estrus
+30,-1.5,1.3,1,Middle Estrus
+28,-2.5,1.2,0.8,Middle Estrus
+27,-1.1,1.1,1.5,Middle Estrus
+30,-0.5,1,1.3,Middle Estrus
+30,0.5,0.5,1,Middle Estrus
+31,0.2,1.7,0.2,Middle Estrus
+32,0.1,1.8,1,Middle Estrus
+34,-2,2,1.2,Middle Estrus
+35,-1.2,2,1,Middle Estrus
+36,-1.3,1.78,0.9,Middle Estrus
+27,-1.4,1.841818182,1,Middle Estrus
+33,-2.25,1.903636364,1.4,Middle Estrus
+30,0.8,1.965454545,1,Middle Estrus
+28,-1.5,2.027272727,1,Middle Estrus
+27,-2.5,2.089090909,1.6,Middle Estrus
+30,-1.1,2.150909091,1,Middle Estrus
+30,-0.5,2.212727273,1.8,Middle Estrus
+31,0.5,2.274545455,1,Middle Estrus
+32,0.2,2.336363636,0.5,Middle Estrus
+34,0.1,2.398181818,0.6,Middle Estrus
+35,-2,2.46,1,Middle Estrus
+36,-1.2,2.521818182,1,Middle Estrus
+23,-1.75,1.3,0.5,Beginning Estrus
+29,1.3,1.2,0.25,Beginning Estrus
+26,-1,1.1,0.5,Beginning Estrus
+24,-2,1,0.3,Beginning Estrus
+23,-0.6,0.9,1,Beginning Estrus
+26,0,0.8,0.8,Beginning Estrus
+26,1,0.3,0.5,Beginning Estrus
+27,0.7,1.5,-0.3,Beginning Estrus
+28,0.6,1.6,0.5,Beginning Estrus
+30,-1.5,1.8,0.7,Beginning Estrus
+31,-0.7,1.8,0.5,Beginning Estrus
+32,-0.8,1.58,0.4,Beginning Estrus
+23,-0.9,1.641818182,0.5,Beginning Estrus
+29,-1.75,1.703636364,0.9,Beginning Estrus
+26,1.3,1.765454545,0.5,Beginning Estrus
+24,-1,1.827272727,0.5,Beginning Estrus
+23,-2,1.889090909,1.1,Beginning Estrus
+26,-0.6,1.950909091,0.5,Beginning Estrus
+26,0,2.012727273,1.3,Beginning Estrus
+27,1,2.074545455,0.5,Beginning Estrus
+28,0.7,2.136363636,0,Beginning Estrus
+30,0.6,2.198181818,0.1,Beginning Estrus
+31,-1.5,2.26,0.5,Beginning Estrus
+32,-0.7,2.321818182,0.2,Beginning Estrus
+23,-1.75,1.3,0.5,Beginning Estrus
+29,1.3,1.2,0.25,Beginning Estrus
+26,-1,1.1,0.5,Beginning Estrus
+24,-2,1,0.3,Beginning Estrus
+23,-0.6,0.9,1,Beginning Estrus
+26,0,0.8,0.8,Beginning Estrus
+26,1,0.3,0.5,Beginning Estrus
+27,0.7,1.5,-0.3,Beginning Estrus
+28,0.6,1.6,0.5,Beginning Estrus
+30,-1.5,1.8,0.7,Beginning Estrus
+31,-0.7,1.8,0.5,Beginning Estrus
+32,-0.8,1.58,0.4,Beginning Estrus
+23,-0.9,1.641818182,0.5,Beginning Estrus
+29,-1.75,1.703636364,0.9,Beginning Estrus
+26,1.3,1.765454545,0.5,Beginning Estrus
+24,-1,1.827272727,0.5,Beginning Estrus
+23,-2,1.889090909,1.1,Beginning Estrus
+26,-0.6,1.950909091,0.5,Beginning Estrus
+26,0,2.012727273,1.3,Beginning Estrus
+27,1,2.074545455,0.5,Beginning Estrus
+28,0.7,2.136363636,0,Beginning Estrus
+30,0.6,2.198181818,0.1,Beginning Estrus
+31,-1.5,2.26,0.5,Beginning Estrus
+32,-0.7,2.321818182,0.2,Beginning Estrus
+22,-1.25,1.3,0.5,End of Estrus
+28,1.8,1.2,0.25,End of Estrus
+25,-0.5,1.1,0.5,End of Estrus
+23,-1.5,1,0.3,End of Estrus
+22,-0.1,0.9,1,End of Estrus
+25,0.5,0.8,0.8,End of Estrus
+25,1.5,0.3,0.5,End of Estrus
+26,1.2,1.5,-0.3,End of Estrus
+27,1.1,1.6,0.5,End of Estrus
+29,-1,1.8,0.7,End of Estrus
+30,-0.2,1.8,0.5,End of Estrus
+31,-0.3,1.58,0.4,End of Estrus
+22,-0.4,1.641818182,0.5,End of Estrus
+28,-1.25,1.703636364,0.9,End of Estrus
+25,1.8,1.765454545,0.5,End of Estrus
+23,-0.5,1.827272727,0.5,End of Estrus
+22,-1.5,1.889090909,1.1,End of Estrus
+25,-0.1,1.950909091,0.5,End of Estrus
+25,0.5,2.012727273,1.3,End of Estrus
+26,1.5,2.074545455,0.5,End of Estrus
+27,1.2,2.136363636,0,End of Estrus
+29,1.1,2.198181818,0.1,End of Estrus
+30,-1,2.26,0.5,End of Estrus
+31,-0.2,2.321818182,0.2,End of Estrus
+22,-1.25,1.3,0.5,End of Estrus
+28,1.8,1.2,0.25,End of Estrus
+25,-0.5,1.1,0.5,End of Estrus
+23,-1.5,1,0.3,End of Estrus
+22,-0.1,0.9,1,End of Estrus
+25,0.5,0.8,0.8,End of Estrus
+25,1.5,0.3,0.5,End of Estrus
+26,1.2,1.5,-0.3,End of Estrus
+27,1.1,1.6,0.5,End of Estrus
+29,-1,1.8,0.7,End of Estrus
+30,-0.2,1.8,0.5,End of Estrus
+31,-0.3,1.58,0.4,End of Estrus
+22,-0.4,1.641818182,0.5,End of Estrus
+28,-1.25,1.703636364,0.9,End of Estrus
+25,1.8,1.765454545,0.5,End of Estrus
+23,-0.5,1.827272727,0.5,End of Estrus
+22,-1.5,1.889090909,1.1,End of Estrus
+25,-0.1,1.950909091,0.5,End of Estrus
+25,0.5,2.012727273,1.3,End of Estrus
+26,1.5,2.074545455,0.5,End of Estrus
+27,1.2,2.136363636,0,End of Estrus
+29,1.1,2.198181818,0.1,End of Estrus
+30,-1,2.26,0.5,End of Estrus
+31,-0.2,2.321818182,0.2,End of Estrus
+20,0,0,0.4,Normal
+21,0,0,0.5,Normal
+22,0,0,0.9,Normal
+23,0,0,0.5,Normal
+24,0,1,0.5,Normal
+25,0,1,1.1,Normal
+26,0,1,0.5,Normal
+27,0,1,1.3,Normal
+28,0,1,0.5,Normal
+29,-0.1,0,0,Normal
+30,-0.2,0,0.1,Normal
+22,-0.3,0,0.5,Normal
+25,0,0,0.2,Normal
+25,0,0,0.5,Normal
+25,0,1,0.25,Normal
+25,0,1,0.5,Normal
+25,0,1,0.3,Normal
+25,0,1,1,Normal
+26,-0.5,0,0.8,Normal
+26,0,0,0.5,Normal
+26,0,0,-0.3,Normal
+26,0,1,0.5,Normal
+24,0,1,0.7,Normal
+24,-0.1,1,0.5,Normal
+24,-0.7,1,0.4,Normal
+24,-0.1,0,0.5,Normal
+25,-0.2,0,0.9,Normal
+25,-0.5,0,0.5,Normal
+26,-0.1,1,0.5,Normal
+26,-0.6,1,1.1,Normal
+27,-0.2,1,0.5,Normal
